@@ -1,0 +1,11 @@
+const CONFIG = Object.freeze({
+  APP_NAME: 'Sports Digital Consent',
+  VERSION: '1.0.0',
+  TIMEZONE: 'Asia/Taipei',
+  SPREADSHEET_ID: '1AfG0wBR67Cfy7K11K5OiPofFJLJCctp0xzvN-kwo_Jg',
+  TEMPLATE_FOLDER_ID: '1BTrVed-qYARlM77TLOJ0YOYeaHbAF6Pf',
+  PDF_FOLDER_ID: '1K6zpqDhtYJZTDej9dsuxwtOSuTTVYRv0',
+  SIGNATURE_FOLDER_ID: '1laZLdVXWhR_TD6PW2GGHFpHLN7K1bQZw',
+  SYSTEM_FOLDER_ID: '1JZSrx1PMzrAy3qS_baJKJpm8815nCqs4',
+  LOG_SHEET: 'System_Log',
+  CONSENT_SHEET: 'Consent
