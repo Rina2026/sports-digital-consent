@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# clasp
+.clasp.json
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
